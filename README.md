@@ -20,4 +20,4 @@ I like working with data, building models, and creating projects that solve real
 
 ## 🎯 Goals
 
-Grow from **📊 Data Analyst → 🤖 Data Scientist → ⚙️ ML Engineer → 🧠 AI Specialist** while building real-world projects and improving problem-solving skills.
+Grow from **📊 Data Analyst → 🤖 Data Scientist → ⚙️ ML Engineer → 🧠 AI Specialist** while building real-world projects and improving problem-solving skill.
