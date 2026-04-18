@@ -139,7 +139,7 @@ currently_building: real-world ML projects
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudransh-ai-dev&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=D300C5&text_color=C9D1D9&langs_count=8" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudransh-ai-dev&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=D300C5&text_color=C9D1D9&langs_count=8&hide=javascript,html,css,scss,sass,less&size_weight=0.5&count_weight=0.5" />
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=rudransh-ai-dev&bg_color=0D1117&color=D300C5&line=00BFFF&point=ffffff&area=true&hide_border=true" />
 </p>
 
