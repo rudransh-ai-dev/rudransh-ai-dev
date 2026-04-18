@@ -4,7 +4,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=RUDRANSH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=%3C%2F%3E%20Data%20Scientist%20in%20Training%20%7C%20AI%20%E2%80%A2%20ML%20%E2%80%A2%20Analytics&descAlignY=80&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=RUDRANSH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Data%20Scientist%20in%20Training%20%E2%80%A2%20AI%20%E2%80%A2%20ML%20%E2%80%A2%20Analytics&descAlignY=80&descSize=16" />
 </p>
 
 <p align="center">
@@ -43,7 +43,6 @@ mindset:
   - "Projects > Tutorials"
   - "Real problems > Toy datasets"
 currently_building: real-world ML projects
-open_to:            collaborations, internships, ML research
 ```
 
 <br/>
@@ -76,10 +75,6 @@ open_to:            collaborations, internships, ML research
 ### 💻 Languages
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
